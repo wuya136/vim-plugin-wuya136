@@ -18,3 +18,6 @@ setlocal softtabstop=4
 setlocal tabstop=4
 setlocal backspace=2
 setlocal smarttab
+
+" Set format
+setlocal formatoptions+=cor

@@ -41,9 +41,6 @@ set showcmd
 "Allow virtual editing in Visual block mode
 set virtualedit=block
 
-"Enable matchit macro
-runtime! macros/matchit.vim
-
 """"""""""""""""""""""""""""""""""""
 "=> Colors and Font
 """"""""""""""""""""""""""""""""""""

@@ -1,0 +1,8 @@
+[color]
+	ui = auto
+[user]
+	name = Zhe Wu
+	email = wuzhe@pateo.com.cn
+	signingkey = Zhe Wu (Key for CM) <wuzhe@pateo.com.cn>
+[core]
+	editor = /usr/bin/vim

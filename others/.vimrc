@@ -533,4 +533,4 @@ Bundle 'gmarik/vundle'
 " ftplugin
 Bundle 'https://github.com/wuya136/vim-plugin-wuya136.git'
 Bundle 'Python-mode-klen'
-
+Bundle 'xmledit'

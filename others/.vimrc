@@ -530,7 +530,11 @@ call vundle#rc()
 " vundle
 Bundle 'gmarik/vundle'
 
+" Auto completions
+Bundle 'AutoComplPop'
+
 " ftplugin
 Bundle 'https://github.com/wuya136/vim-plugin-wuya136.git'
 Bundle 'Python-mode-klen'
 Bundle 'xmledit'
+

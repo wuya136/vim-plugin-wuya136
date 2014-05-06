@@ -9,7 +9,7 @@ if exists("b:did_ftplugin")
 endif
 
 " Don't load another plugin for this buffer
-let b:did_ftplugin = 1
+"let b:did_ftplugin = 1
 
 " Configure matchit
 let b:match_words =  '\<ifdef\>\|\<ifndef\>\|\<ifeq\>\|\<ifneq\>:\<else\>:\<endif\>'

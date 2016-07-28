@@ -1,7 +1,7 @@
 " Vim filetype plugin file
-" Language:	C
+" Language:	JAVA
 " Maintainer:	Wu Zhe (wuya136@gmail.com)
-" Last Change:	2013.08.06
+" Last Change:	2016.07.28
 
 " Only do this when not done yet for this buffer
 if exists("b:did_ftplugin")
@@ -12,10 +12,10 @@ endif
 "let b:did_ftplugin = 1
 
 " Set tabwidth
-"set expandtab
-setlocal shiftwidth=8
-setlocal softtabstop=8
-setlocal tabstop=8
+set expandtab
+setlocal shiftwidth=4
+setlocal softtabstop=4
+setlocal tabstop=4
 setlocal backspace=2
 setlocal smarttab
 

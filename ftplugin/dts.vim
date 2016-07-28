@@ -1,7 +1,7 @@
 " Vim filetype plugin file
-" Language:	C
+" Language:	dts
 " Maintainer:	Wu Zhe (wuya136@gmail.com)
-" Last Change:	2013.08.06
+" Last Change:	2015.02.12
 
 " Only do this when not done yet for this buffer
 if exists("b:did_ftplugin")

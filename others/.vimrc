@@ -82,10 +82,8 @@ if has("gui_running")
 endif
 
 "Highlight current
-if has("gui_running")
-	if exists("&cursorline")
-		set cursorline
-	endif
+if exists("&cursorline")
+	set cursorline
 endif
 
 """"""""""""""""""""""""""""""""""""
